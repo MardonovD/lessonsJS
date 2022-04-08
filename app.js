@@ -86,3 +86,16 @@
 // npm package manager bizga tayyor kutubxona xisoblanadi
 // masalam bootstrap jquery kabi .. managerlarni link orqali chaqirmasdan
 // ishlatsak boladi yani yuklab olib turib npm ortqali..
+
+
+// masalan npmda yaratilgan reponi githubdan yuklab olsak..
+//lekin repoda node_modules bolmaydi 
+// lekin yozilgan codelar node_modulesga bogliq 
+// shunda biz shunchaki npm install deymiza tamom 
+// kerakli node_modulesni yhuklab oladi..
+// buning sababi shundaki package.json dagi dependencies da ypozilgan boladi..
+
+
+// 62-dars
+// Serverdan malumotlarni olish....
+
