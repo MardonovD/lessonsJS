@@ -1,0 +1,23 @@
+{
+  "name": "lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MardonovD/lessonsJS.git"
+  },
+  "author": "Mardonov Doston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MardonovD/lessonsJS/issues"
+  },
+  "homepage": "https://github.com/MardonovD/lessonsJS#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}

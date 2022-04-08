@@ -80,3 +80,9 @@
 //   .map((item) => item[0]);
 // console.log(newArr);
 
+/// 61-dars
+//Mavzu: NPM haqida .JSON-server...
+
+// npm package manager bizga tayyor kutubxona xisoblanadi
+// masalam bootstrap jquery kabi .. managerlarni link orqali chaqirmasdan
+// ishlatsak boladi yani yuklab olib turib npm ortqali..
